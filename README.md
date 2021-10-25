@@ -10,7 +10,8 @@ JavaScript Developer Student
 - 📚 Learning about Javascript stack at [Rocketseat](https://github.com/Rocketseat)
 <!-- - 🎓 Degree Information System at UNIFAMINAS -->
 
-<h3 align="left">Connect with me:</h3><br />
+#### Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/naracarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@naracarvalho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/narayana-carvalho-92a56647/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narayana-carvalho-92a56647/" height="30" width="40" /></a>
