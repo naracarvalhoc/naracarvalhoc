@@ -1,6 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">, I'm Nara</h1>
 
-[![Badge](https://img.shields.io/static/v1?label=&message=Nara&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narayana-carvalho-92a56647/)](https://www.linkedin.com/in/narayana-carvalho-92a56647/)
+[![Badge]
+(https://img.shields.io/static/v1?label=&message=Nara&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narayana-carvalho-92a56647/)](https://www.linkedin.com/in/narayana-carvalho-92a56647/)
 
 JavaScript Developer Student
 
@@ -9,6 +10,11 @@ JavaScript Developer Student
 <!-- - 💻 Working at [](https://www.wipro.com/) -->
 - 📚 Learning about Javascript stack at [Rocketseat](https://github.com/Rocketseat)
 <!-- - 🎓 Degree Information System at UNIFAMINAS -->
+
+<h3 align="left">Connect with me:</h3><br />
+<p align="left">
+<a href="https://twitter.com/naracarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@naracarvalho" height="30" width="40" /></a>
+
 
 ---
 
