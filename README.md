@@ -12,7 +12,7 @@ JavaScript Developer Student
 
 #### Connect with me:
 
-<style> placeitems= center 
+<style> place-items= center 
 
 <p align="left">
 
